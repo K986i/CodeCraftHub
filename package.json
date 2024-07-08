@@ -1,0 +1,30 @@
+{
+  "name": "codecrafthub",
+  "version": "1.0.0",
+  "description": "personalized learning platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K986i/CodeCraftHub.git"
+  },
+  "keywords": [
+    "code",
+    "craft",
+    "hub"
+  ],
+  "author": "jumaro.jimenez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/K986i/CodeCraftHub/issues"
+  },
+  "homepage": "https://github.com/K986i/CodeCraftHub#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.4.5"
+  }
+}
